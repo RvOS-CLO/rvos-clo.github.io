@@ -116,6 +116,20 @@ header.masthead .header-content h1 {
     font-size: 30px;
 }
 
+#about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+}
+
+#about .title {
+    text-align: center;
+    font-weight: 200;
+    letter-spacing: 1px;
+}
+
 footer {
     margin-top: auto;
     padding: 25px 0;
